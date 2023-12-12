@@ -1,4 +1,4 @@
-# Rainfall Prediction Using Deep Learning
+# Rainfall Prediction Using 1D and 2D CNN
 
 This repository contains code for a deep learning project aimed at predicting rainfall intensity from audio data. The project leverages various Python libraries and deep learning frameworks, including Pandas, Librosa, TensorFlow, PyTorch, and Sklearn, to preprocess audio data, extract features, and train convolutional neural network (CNN) models for prediction.
 

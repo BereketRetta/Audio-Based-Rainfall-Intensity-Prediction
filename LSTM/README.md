@@ -1,4 +1,4 @@
-# Rainfall Intensity Prediction from Audio Data
+# Rainfall Intensity using LSTM
 
 This repository contains a deep learning-based approach for predicting rainfall intensity from audio data. The project utilizes Python, along with several libraries for data processing, feature extraction, and model training.
 

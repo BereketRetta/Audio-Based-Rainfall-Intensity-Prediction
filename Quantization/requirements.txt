@@ -1,0 +1,7 @@
+numpy
+torch
+torchvision
+onnxruntime
+librosa
+matplotlib
+Pillow

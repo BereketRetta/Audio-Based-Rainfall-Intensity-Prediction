@@ -14,6 +14,7 @@ This deep learning project, developed by Group 7, focuses on predicting rainfall
 - `/cnn`: Contains the Convolutional Neural Network (CNN) model with scripts for processing audio data and predicting rainfall intensity.
 - `/lstm`: Hosts the Long Short-Term Memory (LSTM) model, including scripts for data handling, feature extraction, training, and evaluation.
 - `/resnet`: Features the Residual Network (ResNet) model and utilities for audio preprocessing, Mel-spectrogram generation, and model training.
+- `/quantization`: Features the quantization of the best model in to different formats and see the inference time, performance and model size changes.
 
 ## Models Overview
 

@@ -1,4 +1,4 @@
-# Audio-Based Rainfall Intensity Prediction Using ResNet
+# Rainfall Intensity Prediction Using ResNet
 
 This project involves using a ResNet model to predict rainfall intensity from audio data. It includes steps for preprocessing audio files, extracting Mel-frequency cepstral coefficients (MFCCs), generating Mel-spectrograms, and training a ResNet model.
 
